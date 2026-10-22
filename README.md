@@ -5,7 +5,7 @@ An AI-powered research project exploring early autism detection through deep lea
 ## 🏆 Achievements
 
 - 🥇 Winner of the YIP 5.0 District-Level Competition
-- 🏅 Received a district-level prize for innovation in healthcare
+- 🏅 Recognized as district-level winner for innovation in healthcare
 
 ## ✨ Key Highlights
 
@@ -13,11 +13,19 @@ An AI-powered research project exploring early autism detection through deep lea
 - **User-friendly interface:** Built with React.js to make the system accessible and easy to navigate.
 - **Ongoing development:** Focused on improving the system's functionality, performance, and reliability.
 
+## 🎯 Project Objectives
+
+- **Explore early ASD detection:** Investigate how AI and deep learning can support the identification of early signs associated with Autism Spectrum Disorder.
+- **Analyze behavioral patterns:** Explore behavioral data and relevant patterns to support research into early identification.
+- **Develop an accessible interface:** Build a user-friendly React.js interface for interacting with the system.
+- **Support healthcare research:** Explore how AI-driven insights could assist qualified professionals, subject to appropriate validation.
+- **Improve system reliability:** Continue evaluating and improving the system as development progresses.
+
 ## 🚧 Project Status
 
 **Currently under development.**
 
-The project is being developed and ready for evaluvation for future scopes.
+The project is under development and is being prepared for further evaluation and future improvements.
 
 ## ⚠️ Important Note
 
