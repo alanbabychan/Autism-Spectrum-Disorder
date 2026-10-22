@@ -17,7 +17,7 @@ An AI-powered research project exploring early autism detection through deep lea
 
 **Currently under development.**
 
-The project is being actively developed, with further improvements planned for its functionality and evaluation.
+The project is being developed and ready for evaluvation for future scopes.
 
 ## ⚠️ Important Note
 
