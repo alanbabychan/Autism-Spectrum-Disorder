@@ -1,25 +1,28 @@
-AI-Driven Autism Detection Project
-The primary goal of this project is to detect autism in infants using advanced technology for early diagnosis. 
-Developed with React.js and deep learning, it ensures a user-friendly interface while leveraging AI to analyze behavioral patterns.
+# AI-Driven Autism Detection Project
 
-Key Highlights:
+An AI-powered research project exploring early autism detection through deep learning and behavioral pattern analysis, with a user-friendly interface built using React.js.
 
-✅ Winner of YIP 5.0 District Level Competition 🏆
+## 🏆 Achievements
 
-✅ Awarded the District-Level Prize for innovation in healthcare
+- 🥇 Winner of the YIP 5.0 District-Level Competition
+- 🏅 Received a district-level prize for innovation in healthcare
 
-✅ AI-powered deep learning algorithms for accurate detection
+## ✨ Key Highlights
 
-✅ User-friendly React.js interface for accessibility
+- **AI-powered analysis:** Applies deep learning techniques to behavioral data.
+- **User-friendly interface:** Built with React.js to make the system accessible and easy to navigate.
+- **Ongoing development:** Focused on improving the system's functionality, performance, and reliability.
 
-✅ Continuous improvements integrating the latest advancements
+## 🚧 Project Status
 
+**Currently under development.**
 
-Stay tuned for further updates as we enhance the system’s accuracy, efficiency, and impact in early autism detection! 
+The project is being actively developed, with further improvements planned for its functionality and evaluation.
 
+## ⚠️ Important Note
 
+This project is under development and is not intended to provide a clinical diagnosis. Its performance and suitability for clinical use require appropriate validation by qualified professionals.
 
-                                                                      CURRENTLY WORKING ON IT
+## 📌 Stay Tuned
 
-
-                                                                            STAY TUNED
+More updates will be shared as development progresses.
