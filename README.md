@@ -5,7 +5,7 @@ An AI-powered research project exploring early autism detection through deep lea
 ## 🏆 Achievements
 
 - 🥇 Winner of the YIP 5.0 District-Level Competition
-- 🏅 Received a district-level prize for innovation in healthcare
+- 🏅 Recognized as district-level winner for innovation in healthcare
 
 ## ✨ Key Highlights
 
