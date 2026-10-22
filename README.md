@@ -13,6 +13,14 @@ An AI-powered research project exploring early autism detection through deep lea
 - **User-friendly interface:** Built with React.js to make the system accessible and easy to navigate.
 - **Ongoing development:** Focused on improving the system's functionality, performance, and reliability.
 
+## 🎯 Project Objectives
+
+- **Explore early ASD detection:** Investigate how AI and deep learning can support the identification of early signs associated with Autism Spectrum Disorder.
+- **Analyze behavioral patterns:** Explore behavioral data and relevant patterns to support research into early identification.
+- **Develop an accessible interface:** Build a user-friendly React.js interface for interacting with the system.
+- **Support healthcare research:** Explore how AI-driven insights could assist qualified professionals, subject to appropriate validation.
+- **Improve system reliability:** Continue evaluating and improving the system as development progresses.
+
 ## 🚧 Project Status
 
 **Currently under development.**
